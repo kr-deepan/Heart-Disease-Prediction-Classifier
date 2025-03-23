@@ -1,6 +1,6 @@
 # Heart Disease Prediction Classifier
 
-Using Binomial Regression
+Using Binomial Logistic Regression
 
 ## Project Description
 
